@@ -74,6 +74,8 @@ namespace Cognitive_Services_ComputerVision_Model
             //      ImageTagList.Add(item.ToString());
             // }
 
+
+            // Do stuff with Object!
         }
 
         static byte[] GetImageAsByteArray(string imageFilePath)

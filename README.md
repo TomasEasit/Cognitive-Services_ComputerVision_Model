@@ -6,10 +6,9 @@ This is a simple exampel how to use Cognitive Services Computer Vision from micr
 Create a account at https://azure.microsoft.com and make a Congitive-Services asset to get your Api key. 
 
 You also need the enpoint and it looks something like "https://northeurope.api.cognitive.microsoft.com/" where the northeurope
-changes depending where you choose to create your key.
+changes depending where you choose to create your key. You get this on same time as your Api Key.
 
-You need a NuGet package for this example:
-Newtonsoft.Json;
+You need a NuGet package for this example, "Newtonsoft.Json"" to deserialize the answer and make the object.
 
-to deserialize the answer. 
+
 
